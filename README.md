@@ -1198,3 +1198,9 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://twitter.com/VintaChen) on Twitter or open an issue on GitHub.
 
+## Tugas Developer Security Operation
+M. Rizky Fadillah
+1103210259
+- Repo ini telah diedit sebagai bagian dari tugas DevSecOps.
+
+
